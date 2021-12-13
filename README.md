@@ -9,7 +9,7 @@ The video player allows you to play and pause a video, fastforward and runback, 
 
 ### Technologies
 ____________________________
-The photo editor app was created with:
+The video player app was created with:
 
 + HTML
 + CSS
